@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<theme>
+	<id>com.filemaker.theme.classic</id>
+	<name>Classic</name>
+	<group>Basic</group>
+	<version>1</version>
+	<cssfile>classic.css</cssfile>
+	<preview>images/classicPreview.png</preview>
+	<metadata>
+		<layoutbuilder>
+			<kBaseFontSize>12</kBaseFontSize>
+			<kReportBreakFieldIndent>10</kReportBreakFieldIndent>
+			<kFirstPartPaddingTop>1</kFirstPartPaddingTop>
+			<kLastPartPaddingBottom>3</kLastPartPaddingBottom>
+			<kPartPaddingLeft>0</kPartPaddingLeft>
+			<kPartPaddingRight>0</kPartPaddingRight>
+			<kLeadingPartPaddingTop>1</kLeadingPartPaddingTop>
+			<kLeadingPartPaddingBottom>2</kLeadingPartPaddingBottom>
+			<kTrailingPartPaddingTop>1</kTrailingPartPaddingTop>
+			<kTrailingPartPaddingBottom>2</kTrailingPartPaddingBottom>
+			<kVerticalFieldSpacing>4</kVerticalFieldSpacing>
+			<kTitleHeaderMinSize>19</kTitleHeaderMinSize>
+			<kHeaderMinSize>19</kHeaderMinSize>
+			<kBodyMinSize>19</kBodyMinSize>
+			<kFooterMinSize>18</kFooterMinSize>
+			<kTitleFooterMinSize>19</kTitleFooterMinSize>
+			<kSummaryPartMinSize>19</kSummaryPartMinSize>
+		</layoutbuilder>
+		<charting>
+			<colorScheme>Earth</colorScheme>
+		</charting>
+	</metadata>
+</theme>

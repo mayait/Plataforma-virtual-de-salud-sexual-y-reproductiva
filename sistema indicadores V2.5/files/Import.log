@@ -1,0 +1,233 @@
+﻿Fecha y hora	Nombre de archivo	Error	Mensaje
+2012-06-20 23:11:27.392 -0500	perinatal.ssyr	0	Importación de operaciones iniciada
+2012-06-20 23:11:27.393 -0500	perinatal.ssyr	0	Importación de tablas desde el portapapeles iniciada
+2012-06-20 23:11:27.417 -0500	registro::apellidos	106	Falta la tabla a la que se hace referencia en el cálculo “borrar_censo::Apellidos”.
+2012-06-20 23:11:27.450 -0500	registro::nombres	106	Falta la tabla a la que se hace referencia en el cálculo “borrar_censo::NOMBRES”.
+2012-06-20 23:11:27.453 -0500	registro::celular	106	Falta la tabla a la que se hace referencia en el cálculo “borrar_censo::CELULAR”.
+2012-06-20 23:11:27.462 -0500	registro::email	106	Falta la tabla a la que se hace referencia en el cálculo “borrar_censo::email_completo”.
+2012-06-20 23:11:27.475 -0500	registro	0	campos importado: 29
+2012-06-20 23:11:27.491 -0500	perinatal.ssyr	0	tablas importado: 1
+2012-06-20 23:11:27.491 -0500	perinatal.ssyr	0	Importación completada
+2012-06-20 23:11:29.934 -0500	perinatal.ssyr	0	Importación de operaciones consignada
+2012-06-20 23:11:29.936 -0500	perinatal.ssyr	0	==================================================================
+2012-06-20 23:11:40.661 -0500	perinatal.ssyr	0	Importación de operaciones iniciada
+2012-06-20 23:11:40.662 -0500	perinatal.ssyr	0	Importación de tablas desde el portapapeles iniciada
+2012-06-20 23:11:40.680 -0500	Formulario_Muerte_Materna	0	campos importado: 15
+2012-06-20 23:11:40.680 -0500	perinatal.ssyr	0	tablas importado: 1
+2012-06-20 23:11:40.681 -0500	perinatal.ssyr	0	Importación completada
+2012-06-20 23:11:43.177 -0500	perinatal.ssyr	0	Importación de operaciones consignada
+2012-06-20 23:11:43.178 -0500	perinatal.ssyr	0	==================================================================
+2012-06-20 23:33:46.139 -0500	perinatal.ssyr	0	Importación de operaciones iniciada
+2012-06-20 23:33:46.140 -0500	perinatal.ssyr	0	Importación de campos desde el portapapeles iniciada
+2012-06-20 23:33:46.147 -0500	registro	0	campos importado: 1
+2012-06-20 23:33:46.147 -0500	perinatal.ssyr	0	Importación completada
+2012-06-20 23:33:51.585 -0500	perinatal.ssyr	0	Importación de operaciones consignada
+2012-06-20 23:33:51.585 -0500	perinatal.ssyr	0	==================================================================
+2012-06-20 23:45:25.496 -0500	perinatal.ssyr	0	Importación de operaciones iniciada
+2012-06-20 23:45:25.497 -0500	perinatal.ssyr	0	Importación de campos desde el portapapeles iniciada
+2012-06-20 23:45:25.505 -0500	Formulario_Muerte_Materna	0	campos importado: 1
+2012-06-20 23:45:25.506 -0500	perinatal.ssyr	0	Importación completada
+2012-06-20 23:45:27.627 -0500	perinatal.ssyr	0	Importación de operaciones consignada
+2012-06-20 23:45:27.627 -0500	perinatal.ssyr	0	==================================================================
+2012-06-21 00:51:58.807 -0500	perinatal.ssyr	0	Importación de pasos de guión desde el portapapeles iniciada
+2012-06-21 00:51:58.823 -0500	Nuevo guión	0	pasos de guión importado: 3
+2012-06-21 00:51:58.823 -0500	perinatal.ssyr	0	Importación completada
+2012-06-21 00:53:02.884 -0500	perinatal.ssyr	0	Importación de pasos de guión desde el portapapeles iniciada
+2012-06-21 00:53:02.890 -0500	Nuevo guión	0	pasos de guión importado: 2
+2012-06-21 00:53:02.891 -0500	perinatal.ssyr	0	Importación completada
+2012-06-21 00:53:17.858 -0500	perinatal.ssyr	0	Importación de pasos de guión desde el portapapeles iniciada
+2012-06-21 00:53:17.864 -0500	Nuevo guión	0	pasos de guión importado: 3
+2012-06-21 00:53:17.864 -0500	perinatal.ssyr	0	Importación completada
+2012-06-21 00:54:11.482 -0500	adolescente.ssyr	0	Importación de pasos de guión desde el portapapeles iniciada
+2012-06-21 00:54:11.484 -0500	Nuevo guión::1::Ir a la presentación	105	Falta la presentación “PlanificacionFamiliar_052”.
+2012-06-21 00:54:11.485 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “tratamiento3”.
+2012-06-21 00:54:11.486 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “tratamiento2”.
+2012-06-21 00:54:11.486 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “tratamiento1”.
+2012-06-21 00:54:11.486 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “sexualidad_relaciones_sexuales”.
+2012-06-21 00:54:11.487 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “sexualidad_problemas_relacion_sexual”.
+2012-06-21 00:54:11.487 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “sexualidad_pareja”.
+2012-06-21 00:54:11.487 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “sexualidad_observaciones”.
+2012-06-21 00:54:11.488 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “sexualidad_necesita_informacion”.
+2012-06-21 00:54:11.488 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “sexualidad_MAC_si_no”.
+2012-06-21 00:54:11.488 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “sexualidad_MAC_pildora”.
+2012-06-21 00:54:11.489 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “sexualidad_MAC_otro_ritmo”.
+2012-06-21 00:54:11.489 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “sexualidad_MAC_otro_hormonal”.
+2012-06-21 00:54:11.489 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “sexualidad_MAC_otro_eqv_masc”.
+2012-06-21 00:54:11.490 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “sexualidad_MAC_otro_eqv_femen”.
+2012-06-21 00:54:11.490 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “sexualidad_MAC_otro_diu”.
+2012-06-21 00:54:11.490 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “sexualidad_MAC_otro_barrera”.
+2012-06-21 00:54:11.491 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “sexualidad_MAC_inyectable”.
+2012-06-21 00:54:11.492 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “sexualidad_MAC_implante”.
+2012-06-21 00:54:11.492 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “sexualidad_MAC_condon”.
+2012-06-21 00:54:11.493 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “sexualidad_MAC_concejeria”.
+2012-06-21 00:54:11.493 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “sexualidad_edad_inicio_relacion_sexual_voluntaria”.
+2012-06-21 00:54:11.494 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “sexualidad_edad_inicio_relacion_sexual”.
+2012-06-21 00:54:11.494 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “sexualidad_ACO_emergencia”.
+2012-06-21 00:54:11.494 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “sexualidad_abuso_sexual”.
+2012-06-21 00:54:11.495 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “responsable”.
+2012-06-21 00:54:11.495 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “P_violencia”.
+2012-06-21 00:54:11.495 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “P_tuberculosis”.
+2012-06-21 00:54:11.496 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “P_preeclampsia”.
+2012-06-21 00:54:11.496 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “P_otra_condicion_medica_general”.
+2012-06-21 00:54:11.496 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “P_nefropatia”.
+2012-06-21 00:54:11.497 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “P_infertilidad”.
+2012-06-21 00:54:11.497 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “P_hipertension”.
+2012-06-21 00:54:11.497 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “P_eclampsia”.
+2012-06-21 00:54:11.498 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “P_diabetes”.
+2012-06-21 00:54:11.498 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “P_cirugia_pelvica_uterina”.
+2012-06-21 00:54:11.498 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “P_cardiopatia”.
+2012-06-21 00:54:11.499 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “observaciones”.
+2012-06-21 00:54:11.499 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_Viven”.
+2012-06-21 00:54:11.499 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_Vaginales”.
+2012-06-21 00:54:11.500 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_ultimo_previo”.
+2012-06-21 00:54:11.500 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_patologia_embarazo”.
+2012-06-21 00:54:11.501 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_Partos”.
+2012-06-21 00:54:11.501 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_Nacidos_vivos”.
+2012-06-21 00:54:11.501 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_Nacidos_muertos”.
+2012-06-21 00:54:11.502 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_muertos_Despues_1era_sem”.
+2012-06-21 00:54:11.502 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_Muertos_1era_sem”.
+2012-06-21 00:54:11.502 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_lactancia_materna_meses”.
+2012-06-21 00:54:11.503 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_lactancia_materna_exclusiva”.
+2012-06-21 00:54:11.503 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_hospitalizaciones”.
+2012-06-21 00:54:11.504 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_Gestas_previas”.
+2012-06-21 00:54:11.504 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_Fin_Embarazo_anterior_Menos_un_anio”.
+2012-06-21 00:54:11.504 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_fin_embarazo_anterior_Fracaso_metodo_anticonceptivo”.
+2012-06-21 00:54:11.505 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_Fin_Embarazo_anterior_Embarazo_planeado”.
+2012-06-21 00:54:11.505 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_Fin_embarazo_anterior”.
+2012-06-21 00:54:11.505 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_edad_primer_parto”.
+2012-06-21 00:54:11.506 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_edad_primer_ebarazo”.
+2012-06-21 00:54:11.506 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_Cesareas”.
+2012-06-21 00:54:11.506 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_antecedentes_gemelares”.
+2012-06-21 00:54:11.507 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_Abortos”.
+2012-06-21 00:54:11.507 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Obs_3_abortos_espontaneos_consecutivos”.
+2012-06-21 00:54:11.507 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “motivo_consulta_codigo_2”.
+2012-06-21 00:54:11.508 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “motivo_consulta_codigo_1”.
+2012-06-21 00:54:11.508 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “motivo_consulta_2”.
+2012-06-21 00:54:11.508 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “motivo_consulta_1”.
+2012-06-21 00:54:11.509 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “interconsulta”.
+2012-06-21 00:54:11.509 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “indicaciones”.
+2012-06-21 00:54:11.509 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “id_random”.
+2012-06-21 00:54:11.510 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “id”.
+2012-06-21 00:54:11.510 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “gineco_uro_ITS_observaciones”.
+2012-06-21 00:54:11.510 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “gineco_uro_enfermedad_transmision_sexual_tratamiento_contactos”.
+2012-06-21 00:54:11.511 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “gineco_uro_enfermedad_transmision_sexual_cual”.
+2012-06-21 00:54:11.511 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “gineco_uro_enfermedad_transmision_sexual_busqueda_contactos”.
+2012-06-21 00:54:11.511 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “gineco_uro_enfermedad_transmision_sexual”.
+2012-06-21 00:54:11.512 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “geo_establecimiento”.
+2012-06-21 00:54:11.512 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “geo_codigo_establecimiento”.
+2012-06-21 00:54:11.512 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Filiacion_telefono”.
+2012-06-21 00:54:11.513 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Filiacion_sexo”.
+2012-06-21 00:54:11.513 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “filiacion_numero_consulta_principal”.
+2012-06-21 00:54:11.514 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Filiacion_Nombres”.
+2012-06-21 00:54:11.514 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Filiacion_Nivel_Escolaridad”.
+2012-06-21 00:54:11.514 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “filiacion_Lugar_parto_aborto”.
+2012-06-21 00:54:11.515 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “filiacion_Lugar_control_prenatal”.
+2012-06-21 00:54:11.515 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Filiacion_Localidad”.
+2012-06-21 00:54:11.516 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Filiacion_HistoriaClinica”.
+2012-06-21 00:54:11.516 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “filiacion_Fecha_nacimiento”.
+2012-06-21 00:54:11.516 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “filiacion_Fecha_consulta”.
+2012-06-21 00:54:11.517 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Filiacion_Etnia”.
+2012-06-21 00:54:11.517 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “filiacion_Estado_civil”.
+2012-06-21 00:54:11.517 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Filiacion_Email”.
+2012-06-21 00:54:11.517 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Filiacion_Edad”.
+2012-06-21 00:54:11.518 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Filiacion_Domicilio”.
+2012-06-21 00:54:11.518 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “filiacion_cedula”.
+2012-06-21 00:54:11.518 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Filiacion_Apellido_paterno”.
+2012-06-21 00:54:11.519 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Filiacion_Apelido_Materno”.
+2012-06-21 00:54:11.519 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “filiacion_Anios_aprobados”.
+2012-06-21 00:54:11.519 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Filiacion_Alfabeta”.
+2012-06-21 00:54:11.520 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Filiacion_acompañante”.
+2012-06-21 00:54:11.520 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “fecha_proxima_consulta”.
+2012-06-21 00:54:11.520 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “F_tuberculosis”.
+2012-06-21 00:54:11.520 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “F_preeclampsia”.
+2012-06-21 00:54:11.521 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “F_otra_condicion_medica_grave”.
+2012-06-21 00:54:11.522 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “F_hipertension”.
+2012-06-21 00:54:11.522 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “F_eclampsia”.
+2012-06-21 00:54:11.523 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “F_diabetes”.
+2012-06-21 00:54:11.523 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “examenes_complementarios_resultado_adjunto”.
+2012-06-21 00:54:11.523 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “examenes_complementarios_pedido”.
+2012-06-21 00:54:11.524 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_ginecologico_vulva”.
+2012-06-21 00:54:11.524 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_ginecologico_vagina”.
+2012-06-21 00:54:11.525 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_ginecologico_toma_muestra”.
+2012-06-21 00:54:11.525 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_ginecologico_tanner_vello”.
+2012-06-21 00:54:11.526 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_ginecologico_tanner_genitales”.
+2012-06-21 00:54:11.526 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_ginecologico_tacto_vaginal”.
+2012-06-21 00:54:11.527 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_ginecologico_tacto_rectal”.
+2012-06-21 00:54:11.527 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_ginecologico_observaciones”.
+2012-06-21 00:54:11.527 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_ginecologico_himen”.
+2012-06-21 00:54:11.528 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_ginecologico_examen_mamario”.
+2012-06-21 00:54:11.528 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_ginecologico_cuerpo_uterino”.
+2012-06-21 00:54:11.528 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_ginecologico_cuello_uterino”.
+2012-06-21 00:54:11.529 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_ginecologico_clitoris”.
+2012-06-21 00:54:11.529 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_ginecologico_anexo_izq”.
+2012-06-21 00:54:11.529 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_ginecologico_anexo_der”.
+2012-06-21 00:54:11.530 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genito_urinario_tratamiento_hombre”.
+2012-06-21 00:54:11.530 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genito_urinario_tratamiento”.
+2012-06-21 00:54:11.530 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genito_urinario_secrecion_uretral_olor”.
+2012-06-21 00:54:11.530 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genito_urinario_secrecion_uretral_duracion”.
+2012-06-21 00:54:11.531 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genito_urinario_secrecion_uretral_color”.
+2012-06-21 00:54:11.531 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genito_urinario_secrecion_uretral_antes”.
+2012-06-21 00:54:11.531 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genito_urinario_secrecion_uretral_actual”.
+2012-06-21 00:54:11.532 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genito_urinario_patron_vello_corporal”.
+2012-06-21 00:54:11.532 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genito_urinario_molestias_hombre”.
+2012-06-21 00:54:11.533 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genito_urinario_molestias”.
+2012-06-21 00:54:11.533 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genito_urinario_flujo_vaginal_olor”.
+2012-06-21 00:54:11.533 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genito_urinario_flujo_vaginal_duracion”.
+2012-06-21 00:54:11.534 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genito_urinario_flujo_vaginal_color”.
+2012-06-21 00:54:11.534 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genito_urinario_flujo_vaginal_antes”.
+2012-06-21 00:54:11.534 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genito_urinario_flujo_vaginal_actual”.
+2012-06-21 00:54:11.535 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genital_masculino_testiculo_izquierdo”.
+2012-06-21 00:54:11.535 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genital_masculino_testiculo_derecho”.
+2012-06-21 00:54:11.535 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genital_masculino_tanner_vello”.
+2012-06-21 00:54:11.536 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genital_masculino_tanner_genitales”.
+2012-06-21 00:54:11.536 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genital_masculino_secrecion”.
+2012-06-21 00:54:11.536 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genital_masculino_prepucio”.
+2012-06-21 00:54:11.537 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genital_masculino_pene_cuerpo”.
+2012-06-21 00:54:11.537 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genital_masculino_observaciones”.
+2012-06-21 00:54:11.537 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genital_masculino_glande”.
+2012-06-21 00:54:11.538 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genital_masculino_ex_mamario”.
+2012-06-21 00:54:11.539 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “ef_genital_masculino_escroto”.
+2012-06-21 00:54:11.539 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “diagnostico3”.
+2012-06-21 00:54:11.540 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “diagnostico2”.
+2012-06-21 00:54:11.540 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “diagnostico1”.
+2012-06-21 00:54:11.540 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “diagnostico_cod3”.
+2012-06-21 00:54:11.541 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “diagnostico_cod2”.
+2012-06-21 00:54:11.542 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “diagnostico_cod1”.
+2012-06-21 00:54:11.542 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Desarollo_Puberal_vello_axilar_mujer”.
+2012-06-21 00:54:11.543 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Desarollo_Puberal_vello_axilar_hombre”.
+2012-06-21 00:54:11.543 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Desarollo_Puberal_telarquia”.
+2012-06-21 00:54:11.543 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Desarollo_Puberal_ritmo_menstrual_dias”.
+2012-06-21 00:54:11.544 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Desarollo_Puberal_ritmo_menstrual”.
+2012-06-21 00:54:11.544 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Desarollo_Puberal_pubarquia_mujer”.
+2012-06-21 00:54:11.544 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Desarollo_Puberal_pubarquia_hombre”.
+2012-06-21 00:54:11.545 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Desarollo_Puberal_polucion”.
+2012-06-21 00:54:11.545 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Desarollo_Puberal_otras_molestias”.
+2012-06-21 00:54:11.546 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Desarollo_Puberal_observaciones”.
+2012-06-21 00:54:11.546 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Desarollo_Puberal_menarquia”.
+2012-06-21 00:54:11.546 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Desarollo_Puberal_dolor_menstrual_sino”.
+2012-06-21 00:54:11.547 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Desarollo_Puberal_dolor_menstrual_mastodinia_sino”.
+2012-06-21 00:54:11.547 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Desarollo_Puberal_dolor_menstrual_mastodinia”.
+2012-06-21 00:54:11.547 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Desarollo_Puberal_dolor_menstrual”.
+2012-06-21 00:54:11.548 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Desarollo_Puberal_coagulos”.
+2012-06-21 00:54:11.548 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Desarollo_Puberal_cantidad”.
+2012-06-21 00:54:11.548 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “Desarollo_Puberal_calidad_informacion”.
+2012-06-21 00:54:11.549 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “__sistema_total_registros”.
+2012-06-21 00:54:11.549 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “__sistema_registros_hallados”.
+2012-06-21 00:54:11.550 -0500	Nuevo guión::3::Exportar registros	102	Falta el campo “__sistema_registro_actual”.
+2012-06-21 00:54:11.550 -0500	Nuevo guión	0	pasos de guión importado: 3
+2012-06-21 00:54:11.551 -0500	adolescente.ssyr	0	Importación completada
+2012-06-21 00:54:50.351 -0500	perinatal.ssyr	0	Importación de pasos de guión desde el portapapeles iniciada
+2012-06-21 00:54:50.357 -0500	Nuevo guión	0	pasos de guión importado: 3
+2012-06-21 00:54:50.358 -0500	perinatal.ssyr	0	Importación completada
+2012-06-21 00:56:27.476 -0500	perinatal.ssyr	0	Importación de pasos de guión desde el portapapeles iniciada
+2012-06-21 00:56:27.477 -0500	Exportar_CSV	0	pasos de guión importado: 1
+2012-06-21 00:56:27.477 -0500	perinatal.ssyr	0	Importación completada
+2012-06-21 01:01:30.398 -0500	perinatal.ssyr	0	Importación de pasos de guión desde el portapapeles iniciada
+2012-06-21 01:01:30.400 -0500	Exportar_CSV	0	pasos de guión importado: 3
+2012-06-21 01:01:30.401 -0500	perinatal.ssyr	0	Importación completada
+2012-06-21 01:01:42.660 -0500	perinatal.ssyr	0	Importación de pasos de guión desde el portapapeles iniciada
+2012-06-21 01:01:42.662 -0500	Exportar_CSV	0	pasos de guión importado: 3
+2012-06-21 01:01:42.662 -0500	perinatal.ssyr	0	Importación completada
+2012-06-21 01:02:42.162 -0500	perinatal.ssyr	0	Importación de pasos de guión desde el portapapeles iniciada
+2012-06-21 01:02:42.164 -0500	Exportar_CSV	0	pasos de guión importado: 3
+2012-06-21 01:02:42.164 -0500	perinatal.ssyr	0	Importación completada
